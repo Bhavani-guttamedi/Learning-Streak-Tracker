@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "Animations, layout transitions, and interactive button states"
+  "canvas-confetti": "Celebration confetti effect when marking study"
+  "@types/canvas-confetti": "Type definitions for canvas-confetti"
+  "date-fns": "For formatting history dates nicely"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes"
+
+notes:
+  - Hooks are imported directly from @workspace/api-client-react
